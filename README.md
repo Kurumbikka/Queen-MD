@@ -50,17 +50,17 @@
 
 ###  ***Deploy on replit*** 
  
-<a href="https://replit.com/@DarkWinzo/Queen-MD?v=1"><img title="ＤａｒｋＷｉｎｚｏ" src="https://repl.it/badge/github/quiec/whatsasena" width="250"></a> 
+<a href="https://replit.com/@DarkWinzo/Queen-MD?v=1"><img title="Kurumbikka" src="https://repl.it/badge/github/quiec/whatsasena" width="250"></a> 
 --
  
 ### ***Deploy on Heroku***
 
-<a href="https://heroku.com/deploy?template=https://github.com/DarkWinzo/Queen-MD "><img title="ＤａｒｋＷｉｎｚｏ" src="https://www.herokucdn.com/deploy/button.svg" width="250"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/DarkWinzo/Queen-MD "><img title="Kurumbikka" src="https://www.herokucdn.com/deploy/button.svg" width="250"></a>
 ---
  
  ### ***Deploy on MOGENIOUS***
  
- <a href="https://studio.mogenius.com/studio/cloud-space/cloud-space-overview"><img title="ＤａｒｋＷｉｎｚｏ" src="https://studio.mogenius.com/assets/logos/logo-mogenius-logo-quer.svg" width="250"></a> 
+ <a href="https://studio.mogenius.com/studio/cloud-space/cloud-space-overview"><img title="Kurumbikka" src="https://studio.mogenius.com/assets/logos/logo-mogenius-logo-quer.svg" width="250"></a> 
 --
   
   ## ⚠️ FOR TERMUX/UBUNTU/SSH USER
@@ -85,7 +85,7 @@ yarn
 ```
 ## Join Support Group :
 
-<a href="https://chat.whatsapp.com/CZQwGCvcyNKIVW3gPF7GqX"><img title="ＤａｒｋＷｉｎｚｏ" src="https://i.ibb.co/GWnd0H8/Supportgp.png" width="300" border="0"></a>
+<a href="https://chat.whatsapp.com/CZQwGCvcyNKIVW3gPF7GqX"><img title="Kurumbikka" src="https://i.ibb.co/GWnd0H8/Supportgp.png" width="300" border="0"></a>
 -- 
 
 ### **Star ⭐ repo if you like Queen-MD.**
